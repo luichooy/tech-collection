@@ -11,10 +11,14 @@
             "id": "97422328f9b89ed6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -175,8 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f9af82592249d1ef",
+  "active": "97422328f9b89ed6",
   "lastOpenFiles": [
+    "note/代码强约束实践.md",
     "未命名.md",
     "tech-collection/ssh-keys.md",
     "tech-collection/typedoc.md",
