@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "e8523b231031f0d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a1061338cf5c7a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97422328f9b89ed6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7c4c04dd38165bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1ba09517d216f72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d4aace6e7fd995f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "8c0119f19a2e9d97",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "fcd613384ffc97da",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6c4f8d25021e9c98",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f90d2aa384ad3f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c806248fa6257d1c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "欢迎.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "欢迎 的反向链接列表"
+            }
+          },
+          {
+            "id": "9814be0bcd3720b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "60ec5416c1c01b71",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "838daa2f7368dd42",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "tech-collection/ssh-keys.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "ssh-keys 的大纲"
+            }
+          },
+          {
+            "id": "f9af82592249d1ef",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 659.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f9af82592249d1ef",
+  "lastOpenFiles": [
+    "未命名.md",
+    "tech-collection/ssh-keys.md",
+    "tech-collection/typedoc.md",
+    "tech-collection/Docker入门.md",
+    "tech-collection/babel.md",
+    "tech-collection/禁止图片选中拖拽.md",
+    "tech-collection/代码强约束实践.md",
+    "tech-collection/zsh.md",
+    "tech-collection/windows-alias.md",
+    "tech-collection/vue-simple-upload.vue",
+    "tech-collection/promise.md",
+    "tech-collection/nvm.md",
+    "tech-collection/nrm.md",
+    "tech-collection/javascript模块化.md",
+    "tech-collection/eslint.md",
+    "欢迎.md",
+    "weidian-tech",
+    "tech-collection"
+  ]
+}
