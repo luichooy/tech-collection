@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5a1061338cf5c7a6",
+        "id": "4f7ad30ce5ab2f89",
         "type": "tabs",
         "children": [
           {
-            "id": "97422328f9b89ed6",
+            "id": "c1069f1e9b860724",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -179,8 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97422328f9b89ed6",
+  "active": "c1069f1e9b860724",
   "lastOpenFiles": [
+    "note/eslint.md",
+    "webpack.md",
+    "README.md",
     "note/代码强约束实践.md",
     "未命名.md",
     "tech-collection/ssh-keys.md",
