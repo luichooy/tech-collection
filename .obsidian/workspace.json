@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "note/音频播放器音量显示动画.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "音频播放器音量显示动画"
             }
           }
         ]
@@ -181,9 +181,13 @@
   },
   "active": "c1069f1e9b860724",
   "lastOpenFiles": [
+    "note/为常用命令设置命令行别名.md",
+    "note/音频播放器音量显示动画.md",
+    "weidian-tech/买家版WebView容器控制参数.md",
+    "weidian-tech/分享渠道及面板定义.md",
+    "README.md",
     "note/eslint.md",
     "webpack.md",
-    "README.md",
     "note/代码强约束实践.md",
     "未命名.md",
     "tech-collection/ssh-keys.md",
