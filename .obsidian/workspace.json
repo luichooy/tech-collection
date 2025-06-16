@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "4f7ad30ce5ab2f89",
+        "id": "1c634472096f8627",
         "type": "tabs",
         "children": [
           {
-            "id": "c1069f1e9b860724",
+            "id": "54f04bd9197a23d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/音频播放器音量显示动画.md",
+                "file": "note/nrm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "音频播放器音量显示动画"
+              "title": "nrm"
+            }
+          },
+          {
+            "id": "e1eec0bba0e43474",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/nrm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nrm"
+            }
+          },
+          {
+            "id": "4cd64b52355abfd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/nrm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nrm"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,15 +208,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1069f1e9b860724",
+  "active": "4cd64b52355abfd0",
   "lastOpenFiles": [
-    "note/为常用命令设置命令行别名.md",
-    "note/音频播放器音量显示动画.md",
-    "weidian-tech/买家版WebView容器控制参数.md",
+    "assets/images/Pasted image 20250616152736.png",
+    "assets/images/nrm-image-20250616152736.png",
+    "note/nrm.md",
+    "weidian-tech/微店堡垒机登录.md",
     "weidian-tech/分享渠道及面板定义.md",
+    "note/nvm.md",
+    "assets/images",
+    "assets",
+    "Pasted image 20250613143801.png",
+    "Pasted image 20250616151650.png",
+    "webpack.md",
+    "Pasted image 20250613144218.png",
+    "Pasted image 20250613144052.png",
+    "weidian-tech/Kibana日志查询.md",
+    "weidian-tech/买家版WebView容器控制参数.md",
+    "note/Docker入门.md",
+    "note/音频播放器音量显示动画.md",
+    "note/为常用命令设置命令行别名.md",
     "README.md",
     "note/eslint.md",
-    "webpack.md",
     "note/代码强约束实践.md",
     "未命名.md",
     "tech-collection/ssh-keys.md",
@@ -202,9 +244,6 @@
     "tech-collection/promise.md",
     "tech-collection/nvm.md",
     "tech-collection/nrm.md",
-    "tech-collection/javascript模块化.md",
-    "tech-collection/eslint.md",
-    "欢迎.md",
     "weidian-tech",
     "tech-collection"
   ]
