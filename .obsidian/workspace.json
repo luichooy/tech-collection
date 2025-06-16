@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note/nrm.md",
+                "file": "note/puppeteer安装失败问题解决方案.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nrm"
+              "title": "puppeteer安装失败问题解决方案"
             }
           }
         ],
@@ -195,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 659.5
+    "width": 396.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,9 +210,13 @@
   },
   "active": "4cd64b52355abfd0",
   "lastOpenFiles": [
+    "assets/images/puppeteer-install-manual.png",
+    "note/puppeteer安装失败问题解决方案.md",
+    "assets/images/puppeteer-install-error.png",
+    "assets/images/puppeteer-install-error.png.png",
+    "note/nrm.md",
     "assets/images/Pasted image 20250616152736.png",
     "assets/images/nrm-image-20250616152736.png",
-    "note/nrm.md",
     "weidian-tech/微店堡垒机登录.md",
     "weidian-tech/分享渠道及面板定义.md",
     "note/nvm.md",
@@ -243,7 +247,6 @@
     "tech-collection/vue-simple-upload.vue",
     "tech-collection/promise.md",
     "tech-collection/nvm.md",
-    "tech-collection/nrm.md",
     "weidian-tech",
     "tech-collection"
   ]
