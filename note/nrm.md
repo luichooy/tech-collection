@@ -3,7 +3,7 @@
 
 ## nrm不支持当前node版本的问题
 
-![报错截图](../assets/images/nrm-image-20250616152736.png)
+![报错截图](assets/images/nrm-image-20250616152736.png)
 
 如图，在node@14.16.1版本下安装nrm之后，运行nrm命令会出现报错，报错内容表示当前node不支持nrm源码中的node语法。
 

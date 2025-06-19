@@ -1,7 +1,7 @@
 
 如图，安装puppeteer经常会遇到失败的情况
 
-![安装失败截图](../assets/images/puppeteer-install-error.png)
+![安装失败截图](assets/images/puppeteer-install-error.png)
 
 错误信息显示
 ```shell
@@ -27,4 +27,4 @@ node install.js
 ```
 
 这样通常就可以解决下载失败的问题了
-![安装失败截图](../assets/images/puppeteer-install-manual.png)
+![安装失败截图](assets/images/puppeteer-install-manual.png)
