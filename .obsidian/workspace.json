@@ -39,14 +39,14 @@
             "id": "4cd64b52355abfd0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "note/nrm.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "nrm"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ],
@@ -208,21 +208,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d4aace6e7fd995f",
+  "active": "4cd64b52355abfd0",
   "lastOpenFiles": [
+    "note/背景颜色渐变动画.md",
+    "weidian-tech/Kibana日志查询.md",
+    "weidian-tech/技术方案/微店前端基建升级技术方案.md",
+    "weidian-tech/技术方案/assets/Pasted image 20250715174824.png",
+    "weidian-tech/技术方案/assets",
+    "note/nrm.md",
+    "weidian-tech/技术方案",
     "note/puppeteer安装失败问题解决方案.md",
     "note/promise.md",
     "note/assets/images/puppeteer-install-manual.png",
     "note/assets/images/puppeteer-install-error.png",
     "note/assets/images/nrm-image-20250616152736.png",
     "note/windows-alias.md",
-    "weidian-tech/Kibana日志查询.md",
     "Pasted image 20250618143819.png",
     "weidian-tech/sheer项目启动发布相关问题.md",
     "weidian-tech/未命名.md",
     "weidian-tech/图片视频上传地址.md",
     "assets/images/puppeteer-install-error.png.png",
-    "note/nrm.md",
     "assets/images/Pasted image 20250616152736.png",
     "weidian-tech/微店堡垒机登录.md",
     "weidian-tech/分享渠道及面板定义.md",
@@ -233,7 +238,6 @@
     "Pasted image 20250616151650.png",
     "webpack.md",
     "Pasted image 20250613144218.png",
-    "Pasted image 20250613144052.png",
     "weidian-tech/买家版WebView容器控制参数.md",
     "note/Docker入门.md",
     "note/音频播放器音量显示动画.md",
@@ -246,8 +250,6 @@
     "tech-collection/typedoc.md",
     "tech-collection/Docker入门.md",
     "tech-collection/babel.md",
-    "tech-collection/禁止图片选中拖拽.md",
-    "tech-collection/代码强约束实践.md",
     "tech-collection/vue-simple-upload.vue",
     "weidian-tech",
     "tech-collection"
